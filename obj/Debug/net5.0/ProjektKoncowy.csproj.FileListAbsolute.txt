@@ -1,0 +1,16 @@
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\bin\Debug\net5.0\ProjektKoncowy.exe
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\bin\Debug\net5.0\ProjektKoncowy.deps.json
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\bin\Debug\net5.0\ProjektKoncowy.runtimeconfig.json
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\bin\Debug\net5.0\ProjektKoncowy.runtimeconfig.dev.json
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\bin\Debug\net5.0\ProjektKoncowy.dll
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\bin\Debug\net5.0\ref\ProjektKoncowy.dll
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\bin\Debug\net5.0\ProjektKoncowy.pdb
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ProjektKoncowy.csproj.AssemblyReference.cache
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ProjektKoncowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ProjektKoncowy.AssemblyInfoInputs.cache
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ProjektKoncowy.AssemblyInfo.cs
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ProjektKoncowy.csproj.CoreCompileInputs.cache
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ProjektKoncowy.dll
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ref\ProjektKoncowy.dll
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ProjektKoncowy.pdb
+C:\Users\Tingllex\Desktop\c#\ProjektKoncowy\ProjektKoncowy\obj\Debug\net5.0\ProjektKoncowy.genruntimeconfig.cache
